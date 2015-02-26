@@ -1,0 +1,17 @@
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\bin\Debug\CompileEffect.exe.config
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\bin\Debug\CompileEffect.exe
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\bin\Debug\CompileEffect.pdb
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.exe
+C:\Users\bodhi\Desktop\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.pdb
+C:\Users\bodhi\Desktop\ShaderSamples\StockEffects\CompileEffect\bin\Debug\CompileEffect.exe.config
+C:\Users\bodhi\Desktop\ShaderSamples\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.exe
+C:\Users\bodhi\Desktop\ShaderSamples\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.pdb
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Debug\CompileEffect.exe.config
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Debug\CompileEffect.exe
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Debug\CompileEffect.pdb
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.exe
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Debug\CompileEffect.pdb

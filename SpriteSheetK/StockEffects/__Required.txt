@@ -1,0 +1,4 @@
+Xna.framework
+Xna.framework.Content.Pipeline
+Xna.framework.Content.Pipeline.EffectImport
+Xna.framework.Graphic

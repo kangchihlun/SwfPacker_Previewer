@@ -1,0 +1,9 @@
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\bin\x86\Release\StockEffects.dll
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\bin\x86\Release\StockEffects.pdb
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\ResolveAssemblyReference.cache
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\StockEffects.Resources.resources
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\GenerateResource.read.1.tlog
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\GenerateResource.write.1.tlog
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\StockEffects.dll
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\StockEffects\obj\x86\Release\StockEffects.pdb

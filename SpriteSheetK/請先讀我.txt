@@ -1,0 +1,31 @@
+作者：Kang Chih Lun
+日期：2013/03/08
+
+寫給之後維護的人的訊息
+
+主要介面：frmMain.cs
+
+Xna 預覽控件: SpriteTexControl.cs 
+
+
+SpecialNote:
+
+shader檔已經被預先Build成 dll 了
+原本呼叫ContentBuilder在第一次畫面重繪的時候BuildShader
+但給其他用戶使用後發現對方並沒有csproj.target的目標檔(需安裝XNA SDK)
+導致安裝檔太過龐大細碎。故找了一個Build成dll的方法
+
+使用的時候請參考SpriteTexControl.cs 的寫法
+using StockEffects;
+(需要先在參考處加入StockEffectWindows.dll)
+新增Shader的做法：
+首先加入一個自訂的 .fx 檔(i.e. ) 到StockEffectsWindows 專案的 HLSL目錄下
+修改StockEffectsWindows 專案的建置前事件
+往後新增一行(記得Shader名稱要一致)
+..\bin\$(ConfigurationName)\CompileEffect.exe Windows Reach $(ProjectDir)HLSL\AlphaTestEffect.fx $(ProjectDir)obj\AlphaTestEffect.bin
+在C#目錄新增一個class , 名稱最好跟 Shader 名一樣
+按f7 ，會自動呼叫 CompileEffect 去 Build命令中的Shader ，把他們Build成為 .bin 檔
+在Resources.resx 把剛Build好的 .bin 加入
+
+特別注意Shader的 .cs 檔要找的是 Resources.你定的Shader名稱
+之後便可以在cs中直接使用shader，參數可以透過SetParameter隨意修改。

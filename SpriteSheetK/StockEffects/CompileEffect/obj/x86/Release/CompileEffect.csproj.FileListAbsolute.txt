@@ -1,0 +1,7 @@
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Release\CompileEffect.exe.config
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Release\CompileEffect.exe
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Release\CompileEffect.pdb
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Release\ResolveAssemblyReference.cache
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Release\CompileEffect.exe
+I:\C#Proj\SwfPack_Previewer\SpriteSheetK\StockEffects\CompileEffect\obj\x86\Release\CompileEffect.pdb
